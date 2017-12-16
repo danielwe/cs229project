@@ -1,0 +1,7 @@
+*.pdf
+*.pkl
+*.pyc
+__pycache__
+*.h5f
+*.log
+.ipynb_checkpoints
